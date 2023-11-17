@@ -20,7 +20,7 @@ const GameGrid = () => {
             xl: 5,
           }}
           padding='10px'
-          spacing={10}
+          spacing={3}
         >
           {/* Display the skeleton while it is loading */}
           {isLoading &&
