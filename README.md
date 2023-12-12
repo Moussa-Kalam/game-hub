@@ -1,27 +1,27 @@
-# React + TypeScript + Vite
+# Game Hub
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to Game Hub, your go-to mini video game discovery platform for finding new and exciting games to play. Whether you're a casual gamer or a seasoned enthusiast, Game Hub is designed to enhance your gaming experience with its user-friendly features and sleek interface.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Discover the following features that make Game Hub a must-have for any gamer:
 
-## Expanding the ESLint configuration
+- **Toggle between Light and Dark Mode:** Customize your experience with our dynamic theme options.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+- **Search Bar**: Effortlessly find your favorite games using our intuitive search functionality.
 
-- Configure the top-level `parserOptions` property like this:
+- **Genre Filters**: Explore games tailored to your preferences by filtering through various genres in the convenient side panel.
 
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
+- **Platform Filters:** Narrow down your choices by selecting specific gaming platforms such as Xbox, Playstation, Nintendo, and more.
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+- **And More...:** Stay tuned for the next updates with even more exciting features.
+
+## Technologies used
+
+- **[React 18](https://react.dev/) with TypeScript**: Harness the power of the latest React version combined with TypeScript for robust and efficient development.
+
+- **[Chakra UI](https://chakra-ui.com/)** Benefit from the stylish and customizable components provided by Chakra UI for a sleek and modern design.
+
+## Live preview
+
+Curious about Game Hub? Take it for a spin with our live preview [here](https://game-discovery-hub-sandy.vercel.app/)
