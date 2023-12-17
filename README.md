@@ -14,6 +14,8 @@ Discover the following features that make Game Hub a must-have for any gamer:
 
 - **Platform Filters:** Narrow down your choices by selecting specific gaming platforms such as Xbox, Playstation, Nintendo, and more.
 
+- **React Query Integration**: Enjoy a more responsive and efficient application with React Query, ensuring seamless data fetching and state management.
+
 - **And More...:** Stay tuned for the next updates with even more exciting features.
 
 ## Technologies used
@@ -21,6 +23,8 @@ Discover the following features that make Game Hub a must-have for any gamer:
 - **[React 18](https://react.dev/) with TypeScript**: Harness the power of the latest React version combined with TypeScript for robust and efficient development.
 
 - **[Chakra UI](https://chakra-ui.com/)** Benefit from the stylish and customizable components provided by Chakra UI for a sleek and modern design.
+
+- **[React Query](https://tanstack.com/query/latest)** Elevate your gaming discovery experience with React Query, ensuring efficient data fetching and state management.
 
 ## Live preview
 
