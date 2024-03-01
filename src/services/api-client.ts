@@ -1,15 +1,16 @@
-import axios, { AxiosRequestConfig } from "axios";
+import axios, { AxiosRequestConfig } from 'axios';
 
 export interface FetchResponse<T> {
   count: number;
+  next: string | null;
   results: T[];
 }
 
 // Create axios instance
 const axiosInstance = axios.create({
-  baseURL: "https://api.rawg.io/api",
+  baseURL: 'https://api.rawg.io/api',
   params: {
-    key: "c397bc00ce93427f99431a57aa2a1549",
+    key: 'c397bc00ce93427f99431a57aa2a1549',
   },
 });
 
