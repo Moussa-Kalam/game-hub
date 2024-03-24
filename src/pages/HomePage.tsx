@@ -1,11 +1,11 @@
-import { Box, Flex, Grid, GridItem, Show } from '@chakra-ui/react';
-import GameGrid from './components/GameGrid';
-import GameHeading from './components/GameHeading';
-import GenreList from './components/GenreList';
-import PlatformSelector from './components/PlatformSelector';
-import SortSelector from './components/SortSelector';
+import { Grid, Show, GridItem, Flex, Box } from '@chakra-ui/react';
+import GameGrid from '../components/GameGrid';
+import GameHeading from '../components/GameHeading';
+import GenreList from '../components/GenreList';
+import PlatformSelector from '../components/PlatformSelector';
+import SortSelector from '../components/SortSelector';
 
-const App = () => {
+const HomePage = () => {
   return (
     <Grid
       templateAreas={{
@@ -38,4 +38,4 @@ const App = () => {
   );
 };
 
-export default App;
+export default HomePage;
