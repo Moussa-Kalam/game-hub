@@ -16,6 +16,8 @@ Discover the following features that make Game Hub a must-have for any gamer:
 
 - **React Query Integration**: Enjoy a more responsive and efficient application with React Query, ensuring seamless data fetching and state management.
 
+- **State Management with Zustand**: Experience smooth and centralized state management with Zustand, making it easier to maintain and update the application's state across components.
+
 - **And More...:** Stay tuned for the next updates with even more exciting features.
 
 ## Technologies used
@@ -25,6 +27,8 @@ Discover the following features that make Game Hub a must-have for any gamer:
 - **[Chakra UI](https://chakra-ui.com/)** Benefit from the stylish and customizable components provided by Chakra UI for a sleek and modern design.
 
 - **[React Query](https://tanstack.com/query/latest)** Elevate your gaming discovery experience with React Query, ensuring efficient data fetching and state management.
+
+- **[Zustand](https://docs.pmnd.rs/zustand/getting-started/introduction)** Simplify your state management with Zustand, a straightforward and fast solution for React.
 
 ## Live preview
 
